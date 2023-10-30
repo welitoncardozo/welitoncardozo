@@ -9,7 +9,7 @@
 ##
   
 <div>
-  <a href ="https://linkr.bio/welitoncardozo" target="_blank">
+  <a href ="https://www.linkedin.com/in/welitoncardozo" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin"">
   </a>
   
