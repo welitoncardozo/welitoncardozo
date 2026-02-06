@@ -1,15 +1,32 @@
 ## 👋 Hi, I’m Weliton Cardozo
 
-Software Engineer & Architect passionate about building both **reliable backend systems** and **user-friendly frontends**, with focus on quality, clean code and continuous learning.
+Software Engineer & Architect passionate about building **reliable backend systems** and **user-friendly frontends**, with a strong focus on quality, clean code and continuous learning.
 
 ---
 
 ### 💼 About Me
 
-- 🚀 Software Architect with experience in scalable backend systems  
-- 💻 Full-Stack mindset — comfortable working on both backend and frontend  
-- 📈 Proactive, self-taught and always focused on personal growth  
-- 🤝 Team player with emphasis on collaboration and clean delivery
+- 🚀 Software Engineer / Architect with experience in scalable systems  
+- 💻 Full-Stack mindset — backend and frontend working together  
+- 📈 Proactive, self-taught and continuously improving  
+- 🤝 Team-oriented, valuing collaboration and well-structured delivery  
+
+---
+
+### 📊 Languages & Technologies
+
+<div align="center">
+  <img
+    height="250em"
+    width="500"
+    src="https://github-readme-stats-vercel-ruddy.vercel.app/api/top-langs?username=welitoncardozo&layout=compact&langs_count=8&theme=dark&hide_border=true"
+  />
+</div>
+
+
+<p align="center">
+  <i>Main languages used across personal, study and professional projects.</i>
+</p>
 
 ---
 
@@ -19,7 +36,7 @@ Software Engineer & Architect passionate about building both **reliable backend 
   <a href="https://www.linkedin.com/in/welitoncardozo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkr.bio/welitoncardozo" target="_blank">
     <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=googlemessages&logoColor=white"/>
   </a>
@@ -27,4 +44,4 @@ Software Engineer & Architect passionate about building both **reliable backend 
 
 ---
 
-⭐ Explore my repos and feel free to reach out!
+⭐ Feel free to explore my repositories and reach out.
